@@ -8,7 +8,7 @@ title: git-hub 페이지 시작
 
 # markdown Preview
 
-Type on the __left__, see it _rendered_ on the right.
+강조 -> __강조__, 기울임 ->  _기울임_ .
 
 강조 __각주문장[^1]__
 
