@@ -5,7 +5,7 @@
 #
 title: smAhn
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: for Computer study blog
 url: # the base hostname & protocol for your site
 
 
@@ -36,7 +36,7 @@ owner:
   name: sm Ahn
   avatar: leonids-logo.png
   job: "Programmer"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  bio: "for Computer study blog"
   email:
   disqus-shortname:
   twitter: #username
