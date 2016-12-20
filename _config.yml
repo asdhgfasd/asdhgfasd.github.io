@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: SMAhn
+  name: "SMAhn"
   avatar: leonids-logo.png
   job: "개발자"
   bio: "Ahn's simple blog"
