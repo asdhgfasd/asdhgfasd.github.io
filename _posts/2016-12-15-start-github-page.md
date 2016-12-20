@@ -1,6 +1,8 @@
 ---
 layout: post
 title: git-hub 페이지 시작
+categories: [paragraph]
+comments: true
 ---
 
 
