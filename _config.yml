@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Ahn's blog
+title: smAhn
 email:
-description: simple blog
-url: asdhgfasd.github.io
+description: A simple and awesome blog theme powered by jekyll.
+url: # the base hostname & protocol for your site
 
 
 #
@@ -14,7 +14,7 @@ url: asdhgfasd.github.io
 # Jekyll configuration
 ####################################
 #
-timezone:          Asia/Korea
+timezone:          Europe/Paris
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: "SMAhn"
+  name: sm Ahn
   avatar: leonids-logo.png
-  job: "개발자"
-  bio: "Ahn's simple blog"
+  job: "Programmer"
+  bio: "A simple and awesome blog theme powered by jekyll."
   email:
   disqus-shortname:
   twitter: #username
