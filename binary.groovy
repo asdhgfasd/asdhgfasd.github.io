@@ -14,10 +14,11 @@ import org.araqne.logdb.groovy.GroovyParserScript;
 @CompileStatic
 class NamedParser extends GroovyParserScript {
 
-    final int BIT_SIZE            =  2  ;
-    final int BYTE_SIZE           =  4  ;
+       
+	final int BIT_SIZE            =  2  ;
+        final int BYTE_SIZE           =  4  ;
 	final int INTEGER_SIZE_LEN    =  8  ;
-    final int SHORT_SIZE_LEN      =  4  ;     // for short binary code parsing
+        final int SHORT_SIZE_LEN      =  4  ;     // for short binary code parsing
 	final int FLOAT_SIZE_LEN      =  8  ;     // for float and integer parsing
 	final int HEX_SIZE_BUFFER     =  16 ;
 
